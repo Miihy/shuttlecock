@@ -63,9 +63,9 @@ __`이러한 한계를 보완하기 위해 소통과 정보 공유를 위한 게
 
 > [정보게시판]
 <p align="center">
-  <img width="200" src="https://github.com/NewParkk/shuttlecock/assets/147493119/862846f0-f641-44b3-92e5-895caa62dba2">
-  <img width="300" src="https://github.com/NewParkk/shuttlecock/assets/147493119/e8637741-64e1-4cf1-b848-7b4ddb2a707e">
-  <img width="300" src="https://github.com/NewParkk/shuttlecock/assets/147493119/52ec8455-fd52-4dc3-af2d-9e0dbcb105b1">
+  <img width="260" src="https://github.com/NewParkk/shuttlecock/assets/147493119/862846f0-f641-44b3-92e5-895caa62dba2">
+  <img width="260" src="https://github.com/NewParkk/shuttlecock/assets/147493119/e8637741-64e1-4cf1-b848-7b4ddb2a707e">
+  <img width="260" src="https://github.com/NewParkk/shuttlecock/assets/147493119/52ec8455-fd52-4dc3-af2d-9e0dbcb105b1">
 </p>
 
 ```
